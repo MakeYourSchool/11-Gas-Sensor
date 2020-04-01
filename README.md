@@ -21,8 +21,8 @@ Das Repository basiert grundlegend auf den veröffentlichten Informationen und C
 
 **Weitere Informationen:**
 
-[Repository von Seed Studio](https://github.com/Seeed-Studio/Grove_Gas_Sensor)
+[Repository von Seeed Studio](https://github.com/Seeed-Studio/Grove_Gas_Sensor)
 
-[Offizielles Wiki von Seed Studio](http://wiki.seeedstudio.com/Grove-Gas_Sensor-MQ2/)
+[Offizielles Wiki von Seeed Studio](http://wiki.seeedstudio.com/Grove-Gas_Sensor-MQ2/)
 
 [Materialkoffer von *Make Your School*](https://www.makeyourschool.de/material/gassensor/)
